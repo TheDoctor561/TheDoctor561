@@ -3,6 +3,6 @@
 - 🌱 Currently pursing a Masters in Data Analytics 
 - 💞️ Looking for a job as a software engineer 
 - 📫 How to reach me ... msg me on linkedin https://www.linkedin.com/in/daniel-yu-cua/
-
+[![@danielyucua's Holopin board](https://holopin.io/api/user/board?user=danielyucua)](https://holopin.io/@danielyucua)
 
 
